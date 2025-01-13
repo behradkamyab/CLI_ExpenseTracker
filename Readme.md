@@ -101,7 +101,7 @@ A simple console-based expense tracker application that helps users manage their
 
 ### 1. Clone the Repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/behradkamyab/CLI_ExpenseTracker/blob/main/Readme.md
 cd ExpenseTracker
 ```
 
